@@ -9,7 +9,7 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['601157554158'] //['628','628'] 2 owner atau lebih
+global.owner = ['69'] //['628','628'] 2 owner atau lebih
 global.packname = 'Memes'
 global.author = 'Meme Pack'
 global.botname = 'Dank Memer'
